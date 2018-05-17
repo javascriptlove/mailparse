@@ -2,7 +2,15 @@
     "name": "mailparse",
     "version": "2.2.2",
     "description": "Parse e-mails",
-    "keywords": ["email", "mail", "parse", "pop3", "imap", "mailparser", "mailparse"],
+    "keywords": [
+        "email",
+        "mail",
+        "parse",
+        "pop3",
+        "imap",
+        "mailparser",
+        "mailparse"
+    ],
     "main": "index.js",
     "scripts": {
         "test": "grunt"
